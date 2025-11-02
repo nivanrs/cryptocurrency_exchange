@@ -2,7 +2,7 @@
 
 executive deck can be found here: [Report](https://docs.google.com/presentation/d/1gAi77JwbbGBnehFrPFtq0hE9SIlaE-jEoHTwaI7XM3Q/edit?usp=sharing)
 
-Data Models can be found here: [erd](erd.html), [notebook](./notebook/dev/erd.ipynb)
+Data Models can be found here: [notebook](./notebook/dev/erd.ipynb)
 
 Dashboards can be found here: [CoinX Looker Dashboard](https://lookerstudio.google.com/reporting/8a1d2ea6-5c78-4b32-b159-e460b0805901)
 
